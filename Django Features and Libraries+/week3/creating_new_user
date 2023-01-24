@@ -1,0 +1,9 @@
+
+
+
+
+from django.contrib.auth.models import User
+user=User.objects.create_user('dj4e_user', password='Meow_d0422b_42')
+user.is_superuser=False
+user.is_staff=True
+user.save()
