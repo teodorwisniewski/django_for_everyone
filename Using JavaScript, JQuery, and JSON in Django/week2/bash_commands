@@ -1,0 +1,2 @@
+cp ~/dj4e-samples/pics/forms.py  ~/django_projects/mysite/ads/ |
+cp ~/dj4e-samples/pics/humanize.py   ~/django_projects/mysite/ads/
